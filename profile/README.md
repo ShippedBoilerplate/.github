@@ -14,7 +14,7 @@ Shipped.club Starter Kit is made of two repositories, that include:
 * Blog powered by Markdown and MDX
 * Chrome Extension Boilerplate
 
-🚀 If you are looking for a way to launch your Micro SaaS / side project / info product, [check out the website](shipped.club)
+🚀 If you are looking for a way to launch your Micro SaaS / side project / info product, [check out the website](shipped.club).
 
 🎓 We also have a free email course about how to [Build and Launch your Startup in 7 days (and start making money)](https://shipped.club/micro-saas-email-course) — one email, for 7 days.
 
