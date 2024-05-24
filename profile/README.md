@@ -7,7 +7,7 @@ Shipped.club Starter Kit is made of two repositories, that include:
 * Next.js App Router
 * Marketing pages (landing page, waitlist, pre-sales, affiliate program)
 * Authentication (NextAuth & Supabase Auth)
-* Payment collection with the integration with LemonSqueezy (Merchant of Record)
+* Payment collection with with LemonSqueezy (Merchant of Record)
 * Pricing page with plans
 * Prisma ORM (MySQL, Postgres, MongoDB, more...)
 * UI Kits with CHakraUI, TailwindCSS, and shadcn/ui
