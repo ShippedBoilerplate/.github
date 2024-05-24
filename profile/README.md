@@ -9,8 +9,8 @@ Shipped.club Starter Kit is made of two repositories, that include:
 * Authentication (NextAuth & Supabase Auth)
 * Payment collection with with LemonSqueezy (Merchant of Record)
 * Pricing page with subscription plans (or one-time payments)
-* Prisma ORM (MySQL, Postgres, MongoDB, more...)
-* UI Kits with CHakraUI, TailwindCSS, and shadcn/ui
+* Prisma ORM (supporting MySQL, Postgres, MongoDB, more...)
+* UI Kits with ChakraUI, TailwindCSS, and shadcn/ui
 * Blog powered by Markdown and MDX
 * Chrome Extension Boilerplate
 
